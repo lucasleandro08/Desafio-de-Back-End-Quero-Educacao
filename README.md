@@ -50,7 +50,7 @@ Retorna opções disponíveis para filtros.
 
 ## 📁 Estrutura do Projeto
 
-projeto-ofertas/
+projeto-ofertas/<br>
 ├── data/data.json # Dados das ofertas <br>
 ├── routes/ofertas.js # Rotas da API<br>
 ├── public/ # Interface web <br>
