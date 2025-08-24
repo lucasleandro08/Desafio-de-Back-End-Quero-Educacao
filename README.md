@@ -1,6 +1,6 @@
 ## Como Executar o Projeto
 1. **Execute o servidor** <br>
-node server.js
+- node server.js
 2. **Acesse a aplicação**
 - Abra seu navegador em: `http://localhost:3000`
   
