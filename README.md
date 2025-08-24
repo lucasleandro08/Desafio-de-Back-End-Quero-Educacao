@@ -56,7 +56,3 @@ projeto-ofertas/<br>
 ├── public/ # Interface web <br>
 ├── server.js # Servidor principal <br>
 └── package.json # Dependências <br>
-
-## ⚠️ Importante
-- Os dados são carregados em modo somente leitura
-- Para parar o servidor, use `Ctrl + C` no terminal
