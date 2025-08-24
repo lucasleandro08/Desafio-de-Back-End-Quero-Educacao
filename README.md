@@ -51,11 +51,11 @@ Retorna opções disponíveis para filtros.
 ## 📁 Estrutura do Projeto
 
 projeto-ofertas/
-├── data/data.json # Dados das ofertas
-├── routes/ofertas.js # Rotas da API
-├── public/ # Interface web
-├── server.js # Servidor principal
-└── package.json # Dependências
+├── data/data.json # Dados das ofertas <br>
+├── routes/ofertas.js # Rotas da API<br>
+├── public/ # Interface web <br>
+├── server.js # Servidor principal <br>
+└── package.json # Dependências <br>
 
 ## ⚠️ Importante
 - Os dados são carregados em modo somente leitura
